@@ -30,8 +30,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 # output
 
 ## resume builder
- file:///home/sachin/Pictures/Screenshots/Screenshot%20from%202023-04-09%2022-31-08.png
+ 
+![Screenshot from 2023-04-09 22-31-08](https://user-images.githubusercontent.com/61376520/230786847-d58e425b-24d9-4d64-af09-b0c6eb28a787.png)
 
 
 ## resume view 
- file:///home/sachin/Pictures/Screenshots/Screenshot%20from%202023-04-09%2022-30-17.png
+![Screenshot from 2023-04-09 22-30-17](https://user-images.githubusercontent.com/61376520/230786843-cd2f3d20-95b9-4233-8167-04c6d245f302.png)
+
