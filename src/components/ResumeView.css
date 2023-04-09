@@ -1,0 +1,45 @@
+.resume-view-container {
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: "Open Sans", sans-serif;
+  color: #333;
+  background-color: #fff;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.resume-header {
+  margin-bottom: 30px;
+}
+
+.resume-section {
+  margin-bottom: 50px;
+}
+
+.resume-item {
+  margin-bottom: 20px;
+}
+
+.resume-item h5 {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.skill-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skill-list li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 8px 15px;
+  border-radius: 20px;
+  background-color: #f0f0f0;
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: uppercase;
+}

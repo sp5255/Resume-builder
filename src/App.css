@@ -1,0 +1,13 @@
+span.tag-wrapper.ReactTags__tag {
+  background: #d0d0d066;
+  padding: 0.4rem;
+  margin-right: 0.3rem;
+}
+
+button.ReactTags__remove {
+  border: initial;
+  border-radius: 4px;
+  background: initial;
+  line-height: 1.2rem;
+  padding-left: 0.5rem;
+}
